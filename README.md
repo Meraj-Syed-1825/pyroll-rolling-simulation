@@ -1,7 +1,7 @@
 # PyRolL Rolling Simulation
 
 Advanced rolling simulation work built on the open-source PyRolL framework,
-developed alongside my M.Sc. thesis at TU Bergakademie Freiberg (IMF).
+developed alongside my M.Sc.
 
 All notebooks include code, simulation outputs, plots, and engineering
 interpretation — connecting classical metal forming theory to modern
